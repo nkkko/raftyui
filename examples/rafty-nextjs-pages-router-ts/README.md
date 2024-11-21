@@ -30,6 +30,8 @@ or:
 
 [![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/rhinobase/raftyui/tree/main/examples/rafty-nextjs-pages-router-ts)
 
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/rhinobase/raftyui)
+
 ## Learn more
 
 To learn more about this example:
